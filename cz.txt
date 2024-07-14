@@ -1,9 +1,0 @@
- cd /www/wwwroot/paypal.ppzk168.com
-
-sudo su - www -s /bin/bash
-
-一定要切换到 composer.json 目录下。
-
-composer install composer.json
-composer install
-composer update
